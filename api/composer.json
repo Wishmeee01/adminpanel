@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "aws/aws-sdk-php": "^3.229",
+        "facebook/graph-sdk": "^5.7",
+        "php-ffmpeg/php-ffmpeg": "^0.19.0",
+        "stripe/stripe-php": "^10.3"
+    }
+}
